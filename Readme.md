@@ -19,7 +19,7 @@ This example illustrates how to bind the DataGrid control to data by using the U
 
 
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=XDL_how-to-utilize-the-unboundsource-component-in-code-t474976&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=XDL_how-to-utilize-the-unboundsource-component-in-code-t474976&~~~was_helpful=no)
 
